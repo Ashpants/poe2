@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding2>
-	<Build ascendClassName="Deadeye" viewMode="TREE" characterLevelAutoMode="false" level="97" mainSocketGroup="3" targetVersion="0_1" className="Ranger">
+	<Build ascendClassName="Deadeye" viewMode="CALCS" characterLevelAutoMode="false" level="97" mainSocketGroup="3" targetVersion="0_1" className="Ranger">
 		<PlayerStat value="894433.00310357" stat="AverageDamage"/>
 		<PlayerStat value="894433.00310357" stat="AverageBurstDamage"/>
 		<PlayerStat value="2.6649" stat="Speed"/>
@@ -714,7 +714,7 @@ Corrupted
 		<TradeSearchWeights/>
 	</Items>
 	<Calcs>
-		<Input number="9" name="skill_number"/>
+		<Input number="3" name="skill_number"/>
 		<Input string="EFFECTIVE" name="misc_buffMode"/>
 		<Section id="SkillSelect" subsection="ViewSkillDetails" collapsed="false"/>
 		<Section id="HitDamage" subsection="SkillHitDamage" collapsed="false"/>
