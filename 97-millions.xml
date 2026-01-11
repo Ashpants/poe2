@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding2>
-	<Build ascendClassName="Deadeye" viewMode="TREE" characterLevelAutoMode="false" level="97" mainSocketGroup="9" targetVersion="0_1" className="Ranger">
-		<PlayerStat value="0" stat="AverageHit"/>
-		<PlayerStat value="0" stat="AverageBurstDamage"/>
-		<PlayerStat value="0.38850038850039" stat="Speed"/>
-		<PlayerStat value="4.52" stat="CritMultiplier"/>
+	<Build ascendClassName="Deadeye" viewMode="TREE" characterLevelAutoMode="false" level="97" mainSocketGroup="3" targetVersion="0_1" className="Ranger">
+		<PlayerStat value="894433.00310357" stat="AverageDamage"/>
+		<PlayerStat value="894433.00310357" stat="AverageBurstDamage"/>
+		<PlayerStat value="2.6649" stat="Speed"/>
+		<PlayerStat value="50" stat="PreEffectiveCritChance"/>
+		<PlayerStat value="75" stat="CritChance"/>
+		<PlayerStat value="25" stat="CritBifurcates"/>
+		<PlayerStat value="7.21" stat="CritMultiplier"/>
 		<PlayerStat value="100" stat="HitChance"/>
-		<PlayerStat value="0" stat="TotalDPS"/>
+		<PlayerStat value="2431246.0001701" stat="TotalDPS"/>
 		<PlayerStat value="0" stat="TotalDot"/>
-		<PlayerStat value="0" stat="WithBleedDPS"/>
-		<PlayerStat value="0" stat="WithIgniteDPS"/>
-		<PlayerStat value="0" stat="WithPoisonDPS"/>
-		<PlayerStat value="0" stat="TotalDotDPS"/>
+		<PlayerStat value="2431246.0001701" stat="WithBleedDPS"/>
+		<PlayerStat value="6731.7142575453" stat="IgniteDPS"/>
+		<PlayerStat value="2437977.7144277" stat="WithIgniteDPS"/>
+		<PlayerStat value="2431246.0001701" stat="WithPoisonDPS"/>
+		<PlayerStat value="6731.7142575453" stat="TotalDotDPS"/>
 		<PlayerStat value="0" stat="CullingDPS"/>
 		<PlayerStat value="0" stat="ReservationDPS"/>
-		<PlayerStat value="0" stat="CombinedDPS"/>
-		<PlayerStat value="2.574" stat="Cooldown"/>
-		<PlayerStat value="63" stat="ManaCost"/>
+		<PlayerStat value="2437977.7144277" stat="CombinedDPS"/>
+		<PlayerStat value="3.2" stat="AreaOfEffectRadiusMetres"/>
+		<PlayerStat value="214" stat="ManaCost"/>
 		<PlayerStat value="0" stat="ManaPercentCost"/>
-		<PlayerStat value="24.475524475524" stat="ManaPerSecondCost"/>
+		<PlayerStat value="570.2886" stat="ManaPerSecondCost"/>
 		<PlayerStat value="0" stat="ManaPercentPerSecondCost"/>
 		<PlayerStat value="0" stat="LifeCost"/>
 		<PlayerStat value="0" stat="LifePercentCost"/>
@@ -43,6 +47,7 @@
 		<PlayerStat value="13204" stat="FireMaximumHitTaken"/>
 		<PlayerStat value="13204" stat="ColdMaximumHitTaken"/>
 		<PlayerStat value="inf" stat="ChaosMaximumHitTaken"/>
+		<PlayerStat value="2589" stat="MainHandAccuracy"/>
 		<PlayerStat value="0" stat="Darkness"/>
 		<PlayerStat value="0" stat="ReservedDarkness"/>
 		<PlayerStat value="1" stat="Life"/>
@@ -57,7 +62,7 @@
 		<PlayerStat value="721" stat="ManaUnreserved"/>
 		<PlayerStat value="100" stat="ManaUnreservedPercent"/>
 		<PlayerStat value="46.1" stat="ManaRegenRecovery"/>
-		<PlayerStat value="0" stat="ManaLeechGainRate"/>
+		<PlayerStat value="144.2" stat="ManaLeechGainRate"/>
 		<PlayerStat value="158" stat="Spirit"/>
 		<PlayerStat value="4" stat="SpiritUnreserved"/>
 		<PlayerStat value="2.5316455696203" stat="SpiritUnreservedPercent"/>
